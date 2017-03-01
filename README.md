@@ -836,5 +836,5 @@ Oh yeah, and extensions will be marked with a :snake:.
 * [Emoji Cheat Sheet] (http://www.webpagefx.com/tools/emoji-cheat-sheet/) - 
 
 # Contributing and License
- * [See the guide](https://github.com/isaac12x/awesome-ios-ui/blob/master/.github/CONTRIBUTING.md)
+ * [See the guide](https://github.com/Isaac12x/pretty-ios-ui/blob/master/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
